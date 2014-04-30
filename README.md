@@ -9,3 +9,4 @@ Probability for Computer Science
 
 [Histograms(ro)](http://nbviewer.ipython.org/url/raw.github.com/empet/ProbCS/master/Histograme.ipynb)
 
+[Markov Chains(ro)](http://nbviewer.ipython.org/url/raw.github.com/empet/ProbCS/master/MarkovChains.ipynb)
