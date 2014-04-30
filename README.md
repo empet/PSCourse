@@ -7,6 +7,6 @@ Probability for Computer Science
 
 [Monty Hall Problem (ro)](http://nbviewer.ipython.org/url/raw.github.com/empet/ProbCS/master/Monty_Hall.ipynb)
 
-[Histograms(ro)](http://nbviewer.ipython.org/url/raw.github.com/empet/ProbCS/master/Histograme.ipynb)
+[Histograms (ro)](http://nbviewer.ipython.org/url/raw.github.com/empet/ProbCS/master/Histograme.ipynb)
 
-[Markov Chains(ro)](http://nbviewer.ipython.org/url/raw.github.com/empet/ProbCS/master/MarkovChains.ipynb)
+[Markov Chains (ro)](http://nbviewer.ipython.org/url/raw.github.com/empet/ProbCS/master/MarkovChains.ipynb)
