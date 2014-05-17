@@ -12,3 +12,5 @@ Probability for Computer Science
 [Markov Chains (ro)](http://nbviewer.ipython.org/url/raw.github.com/empet/ProbCS/master/MarkovChains.ipynb)
 
 [Continuous Probability Distributions (ro)](http://nbviewer.ipython.org/url/raw.github.com/empet/ProbCS/master/DistributiiProbCont.ipynb)
+
+[Bivariate Normal Distributions (ro)](http://nbviewer.ipython.org/url/raw.github.com/empet/ProbCS/master/BivariateNormal.ipynb)
